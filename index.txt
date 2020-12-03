@@ -1,0 +1,2 @@
+git init 初始化git仓库的命令
+git add 向暂存区中添加文件的命令
